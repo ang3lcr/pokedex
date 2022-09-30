@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.greeting{
+  font-size: 26px;
+}
+
+.pokemons{
+  text-align: center;
+}
+
+.card-container{
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1%;
+  }
+  .card1{
+    margin-bottom: 10%;
+    }
